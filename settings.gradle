@@ -1,0 +1,1 @@
+include ':app', ':benh5qrcode', ':protocol', ':qrcode'
